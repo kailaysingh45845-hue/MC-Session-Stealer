@@ -1,4 +1,4 @@
-# MC-Session-Stealer
+# MC-Session-id
 Simple Session-Token stealer written as a forge mod for Minecraft 1.8.9
 
 # ⚠️ Disclaimer
